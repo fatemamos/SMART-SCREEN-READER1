@@ -12,11 +12,13 @@ Text-to-Speech (TTS): Converts the recognized text into speech, allowing users t
 
 Template Matching: Uses computer vision techniques to identify and highlight specific words or patterns within the captured image.
 
+Navigation: Allows users to navigate through recognized text using mouse gestures, with real-time feedback on the location and content of the text.
+
+Document Filling: Allows users to fill in forms or documents by selecting fields and entering text using voice commands or typed input. This feature guides users through the document, ensuring accurate placement and completion of text fields.
+
 Barcode Scanning: Detects and decodes various types of barcodes, providing relevant information or actions based on the scanned content.
 
 Translation: Translates recognized text into the user’s preferred language using Google Cloud Translate services.
-
-Navigation: Allows users to navigate through recognized text using mouse gestures, with real-time feedback on the location and content of the text.
 
 #Installation and Setup
 
