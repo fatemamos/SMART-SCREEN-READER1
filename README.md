@@ -9,7 +9,9 @@ Template Matching: Uses computer vision techniques to identify and highlight spe
 Barcode Scanning: Detects and decodes various types of barcodes, providing relevant information or actions based on the scanned content.
 Translation: Translates recognized text into the user’s preferred language using Google Cloud Translate services.
 Navigation: Allows users to navigate through recognized text using mouse gestures, with real-time feedback on the location and content of the text.
+
 #Installation and Setup
+
 #To set up the Smart Screen Reader, follow these steps:
 
 Clone the Project: Download the source code from the repository.
